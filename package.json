@@ -29,7 +29,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://nehachothanilabel.github.io/my-website",
+  "homepage": "https://nehachothanilabel.github.io",
   "browserslist": {
     "production": [
       ">0.2%",
